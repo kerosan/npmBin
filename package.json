@@ -1,0 +1,15 @@
+{
+  "name": "ttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "scriptStart",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "te": "file:te-1.0.0.tgz"
+  },
+  "author": "",
+  "license": "ISC"
+}
